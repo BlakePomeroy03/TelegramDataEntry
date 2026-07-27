@@ -1,0 +1,12 @@
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Credentials
+credentials.json
+
+# Python caches
+__pycache__/
+*.pyc
