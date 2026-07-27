@@ -10,3 +10,5 @@ credentials.json
 # Python caches
 __pycache__/
 *.pyc
+
+.DS_Store
